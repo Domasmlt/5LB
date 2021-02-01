@@ -1,0 +1,2 @@
+KategorijosPajamos
+KategorijosPajamos$1

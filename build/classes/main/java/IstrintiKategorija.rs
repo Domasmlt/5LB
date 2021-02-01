@@ -1,0 +1,2 @@
+IstrintiKategorija
+IstrintiKategorija$1

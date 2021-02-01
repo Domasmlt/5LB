@@ -1,0 +1,3 @@
+PajamuIvedimas
+PajamuIvedimas$1
+PajamuIvedimas$2
